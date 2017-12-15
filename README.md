@@ -1,1 +1,1 @@
-# LaTex 模版
+# LaTex 論文模版
